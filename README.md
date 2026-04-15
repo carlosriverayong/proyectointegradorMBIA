@@ -136,7 +136,7 @@ pip install -r requirements.txt
 # Configurar API key de FRED
 # Regístrate en: https://fred.stlouisfed.org/docs/api/api_key.html
 # Crea un archivo config.py (está en .gitignore):
-echo "FRED_API_KEY = 'tu_key_aqui'" > config.py
+echo "FRED_API_KEY = '2f55df367c8ec1c44c28ed52b959e6a5'" > config.py
 
 # Ejecutar notebooks en orden
 jupyter lab
@@ -198,7 +198,9 @@ El BDI oficial del Baltic Exchange no se distribuye gratuitamente via APIs públ
 ---
 
 ## Autor
-
-**Carlos Rivera** — Maestría en Business Intelligence & Analytics  
+**Daniela Valladares**
+**Jorge Alvarado**
+**Carlos Rivera** 
+Maestría en Business Intelligence & Analytics  
 Universidad del Valle de Guatemala  
 [github.com/carlosriverayong](https://github.com/carlosriverayong)
